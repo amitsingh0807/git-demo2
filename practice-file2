@@ -9,6 +9,8 @@ LIne edited in git-hub
 Second line edited in git-hub to check git pull
 <<<<<<< HEAD
 Trying simulatanous changes local and github
+
+github change trying to override
 =======
 Simultanoues change in github for github
 >>>>>>> refs/remotes/origin/master
