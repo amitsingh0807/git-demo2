@@ -1,3 +1,9 @@
 initial entry
 Added new line
+<<<<<<< HEAD
+
+added a new line
 Adding the third line to compare with git hub
+=======
+LIne edited in git-hub
+>>>>>>> 7e1d578bfaf07863bab27da863fb9fc9b0afdc3a
