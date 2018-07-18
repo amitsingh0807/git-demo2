@@ -11,5 +11,6 @@ Second line edited in git-hub to check git pull
 Trying simulatanous changes local and github
 =======
 Simultanoues change in github for github
+Local changes only
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 7e1d578bfaf07863bab27da863fb9fc9b0afdc3a
